@@ -1,0 +1,138 @@
+    Shimmering 	        Fleeting 	    Pulsing 	    Wellspring 	    Soothing 	    Hungry 	            Abounding
+A	Fire Boost	        Magic Haste	    Leaf Bracer	    Air Combo Plus	HP Boost	    HP Prize Plus	    Link Prize Plus
+B	Fire Boost	        Reload Boost	Finish Boost	Once More	    Damage Syphon	HP Prize Plus	    EXP Chance
+C	Fire Screen	        Attack Haste	Finish Boost	Combo Plus	    HP Boost	    HP Prize Plus	    Link Prize Plus
+D	Fire Screen	        Attack Haste 	Leaf Bracer	    Combo Plus	    HP Boost	    HP Prize Plus	    Link Prize Plus
+E	Blizzard Boost	    Magic Haste	    Leaf Bracer	    Combo Plus	    Item Boost	    HP Prize Plus	    Lucky Strike
+F	Blizzard Boost	    Reload Boost	Second Chance	Air Combo Plus	Damage Syphon	HP Prize Plus	    Lucky Strike
+G	Blizzard Screen	    Attack Haste	Leaf Bracer	    Air Combo Plus	Item Boost	    HP Prize Plus	    Luck Boost
+H	Blizzard Screen	    Magic Haste	    Combo F Boost	Air Combo Plus	Item Boost	    HP Prize Plus	    EXP Walker
+I	Thunder Boost	    Magic Haste	    Combo F Boost	Air Combo Plus	HP Boost	    Treasure Magnet	    Link Prize Plus
+J	Thunder Boost	    Reload Boost	Combo F Boost	Once More	    Defender	    Treasure Magnet	    EXP Chance
+K	Thunder Screen	    Attack Haste	Finish Boost	Combo Plus	    HP Boost	    Treasure Magnet	    Link Prize Plus
+L	Thunder Screen	    Attack Haste	Finish Boost	Combo Plus	    HP Boost	    Treasure Magnet	    Lucky Strike
+M	Cure Boost	        Magic Haste	    Combo F Boost	Combo Plus	    Item Boost	    Treasure Magnet	    Lucky Strike
+N	Cure Boost	        Reload Boost	Second Chance	Combo Plus	    Defender	    Treasure Magnet	    Lucky Strike
+O	Dark Screen	        Attack Haste	Finish Boost	Air Combo Plus	Item Boost	    Treasure Magnet	    Lucky Strike
+P	Dark Screen	        Magic Haste	    Combo F Boost	Air Combo Plus	Item Boost	    Treasure Magnet	    EXP Walker
+
+
+Command 	        1st Ingredient 	        2nd Ingredient 	    Type 	Used By 	%
+Blitz	            Quick Blitz	            Slot Edge	        O		            90
+Blitz	            Barrier Surge	        Wishing Edge	    P		            90
+Blitz	            Stun Edge	            Slot Edge	        K		            90
+Meteor Crash	    Blitz	                Quake	            N		            100
+Meteor Crash	    Fire Strike	            Brutal Blast	    D		            100
+Magic Hour	        Blitz	                Zero Graviga	    O		            90
+Magic Hour	        Barrier Surge	        Aeroga	            N		            90
+Fire Dash	        Sliding Dash	        Fire	            D		            100
+Fire Dash	        Sliding Dash	        Fira	            C		            100
+Fire Dash	        Confusion Strike	    Fire	            D		            100
+Dark Haze	        Fire Dash	            Zero Gravira	    D		            100
+Dark Haze	        Fire Dash	            Blackout	        A		            100
+Dark Haze	        Fire Surge	            Zero Gravity	    C		            100
+Sonic Blade	        Blitz	                Dark Haze	        D		            90
+Sonic Blade	        Blitz	                Air Slide	        N		            90
+Sonic Blade	        Fire Dash	            Thunder Surge	    K		            90
+Chaos Blade	        Dark Haze	            Sonic Blade	        B		            90
+Zantetsuken	        Dark Haze	            Stopga	            B		            80
+Zantetsuken	        Sonic Blade	            Stopga	            F		            80
+Strike Raid	        Quick Blitz	            Sliding Dash	    O		            100
+Freeze Raid	        Strike Raid	            Blizzara	        I		            100
+Freeze Raid	        Blizzard Edge	        Binding Strike	    K		            100
+Treasure Raid	    Strike Raid	            Slot Edge	        O		            100
+Treasure Raid	    Slot Edge	            Magnet	            D		            100
+Treasure Raid	    Slot Edge	            Magnera	            K		            100
+Spark Raid	        Freeze Raid	            Magnega	            J		            100
+Spark Raid	        Treasure Raid	        Magnega	            N		            100
+Spark Raid	        Thunder Surge	        Dodge Roll	        P		            20
+Spark Raid	        Thundaga	            Dodge Roll	        L		            20
+Spark Raid	        Dodge Roll	            Stun Block	        L		            20
+Wind Raid	        Freeze Raid	            Aeroga	            B		            100
+Wind Raid	        Treasure Raid	        Aeroga	            F		            100
+Fire Surge	        Fire Dash	            Ignite	            D		            100
+Fire Surge	        Fire Strike	            Fira	            A		            100
+Fire Surge	        Confusion Strike	    Fira	            O		            100
+Fire Surge	        Binding Strike	        Fira	            K		            100
+Barrier Surge	    Fire Dash	            Barrier	            D		            100
+Barrier Surge	    Stun Edge	            Barrier	            K		            100
+Thunder Surge	    Fire Dash	            Thundara	        D		            100
+Thunder Surge	    Freeze Raid	            Thundara	        G		            100
+Thunder Surge	    Stun Edge	            Thundara	        I		            100
+Thunder Surge	    Confusion Strike	    Thundara	        I		            95
+Aerial Slam	        Fire Dash	            High Jump	        A		            100
+Aerial Slam	        Fire Surge	            Aero	            D		            100
+Aerial Slam	        Fire Strike	            Aerora	            C		            90
+Ars Solum	        Dark Haze	            Sonic Blade	        B		            20
+Ars Solum	        Dark Haze	            Stopga	            B		            20
+Ars Solum	        Sonic Blade	            Stopga	            F		            20
+Ars Solum	        Sliding Dash	        Thunder	            K		            5
+Ars Solum	        Strike Raid	            Thunder	            L		            5
+Ars Solum	        Strike Raid	            Thundara	        K		            5
+Ars Solum	        Confusion Strike	    Thundara	        I		            5
+Ars Arcanum	        Blitz	                Aerial Slam	        F		            100
+Ars Arcanum	        Quick Blitz	            Slot Edge	        O		            10
+Ars Arcanum	        Fire Strike	            Aerora	            C		            10
+Ars Arcanum	        Quick Blitz	            Blizzard	        G		            5
+Ars Arcanum	        Quick Blitz	            Blizzara	        H		            5
+Ars Arcanum	        Sliding Dash	        Blizzard	        E		            5
+Ars Arcanum	        Sliding Dash	        Blizzara	        G		            5
+Ars Arcanum	        Poison Edge	            Cura	            P		            5
+Ars Arcanum	        Blizzard Edge	        Cura	            G		            5
+Time Splicer	    Aerial Slam	            Stopga	            F		            100
+Time Splicer	    Stopga	                Barrier	            C		            20
+Time Splicer	    Barrier Surge	        Wishing Edge	    P		            10
+Time Splicer	    Stun Edge	            Slot Edge	        K		            10
+Poison Edge         Quick Blitz	            Poison	            O		            95
+Poison Edge         Sliding Dash	        Poison	            K		            95
+Poison Edge         Strike Raid	            Poison	            D		            95
+Wishing Edge	    Strike Raid	            Barrier Surge	    O		            100
+Wishing Edge	    Barrier Surge	        Stun Edge	        K		            100
+Wishing Edge	    Stun Edge	            Binding Strike	    J		            100
+Blizzard Edge	    Quick Blitz	            Blizzard	        G		            95
+Blizzard Edge	    Quick Blitz	            Blizzara	        H		            95
+Blizzard Edge	    Sliding Dash	        Blizzard	        E		            95
+Blizzard Edge	    Sliding Dash	        Blizzara	        G		            95
+Stun Edge	        Sliding Dash	        Thunder	            K		            95
+Stun Edge	        Strike Raid	            Thunder	            L		            95
+Stun Edge	        Strike Raid	            Thundara	        K		            95
+Slot Edge	        Wishing Edge	        Cure	            O		            100
+Slot Edge	        Poison Edge	            Cura	            P		            95
+Slot Edge	        Blizzard Edge	        Cura	            G		            95
+Slot Edge	        Curaga	                Renewal Block	    N		            90
+Slot Edge	        Curaga	                Focus Block	        P		            90
+Slot Edge	        Curaga	                Renewal Barrier	    N		            90
+Slot Edge	        Curaga	                Focus Barrier	    P		            90
+Fire Strike	        Poison Edge	            Fira	            D		            100
+Fire Strike	        Wishing Edge	        Ignite	            A		            100
+Fire Strike	        Stun Edge	            Fire	            K		            100
+Confusion Strike	Quick Blitz	            Confuse	            O		            100
+Confusion Strike	Sliding Dash	        Zero Gravity	    K		            100
+Confusion Strike	Strike Raid	            Confuse	            G		            100
+Binding Strike	    Quick Blitz	            Bind	            K		            100
+Binding Strike	    Strike Raid	            Bind	            O		            100
+Binding Strike	    Stun Edge	            Zero Gravity	    I		            100
+Brutal Blast	    Stun Edge	            Mine Shield	        O		            70
+Brutal Blast	    Binding Strike	        Mine Square	        L		            70
+Tornado Strike	    Confusion Strike	    Aeroga	            G		            100
+Tornado Strike	    Binding Strike	        Aeroga	            F		            100
+Magnet Spiral	    Binding Strike	        Collision Magnet	K		            100
+Magnet Spiral	    Binding Strike	        Magnega	            J		            100
+Magnet Spiral	    Quick Blitz	            Magnera	            K		            20
+Magnet Spiral	    Stun Edge	            Magnera	            L		            20
+Magnet Spiral	    Zero Gravira	        Magnet	            I		            20
+Windcutter	        Binding Strike	        Aeroga	            F		            100
+Windcutter	        Confusion Strike	    Aeroga	            G		            100
+Limit Storm	        Brutal Blast	        Confusion Strike	G		            100
+Limit Storm	        Brutal Blast	        Binding Strike	    D		            100
+Salvation	        Wind Raid	            Curaga	            N		            100
+Collision Magnet	Quick Blitz	            Magnera	            K		            80
+Collision Magnet	Stun Edge	            Magnera	            L		            80
+Collision Magnet	Zero Gravira	        Magnet	            I		            80
+Geo Impact	        Brutal Blast	        Brutal Blast	    N		            70
+Sacrifice	        Dark Haze	            Warp	            B		            100
+Sacrifice	        Poison Edge	            Warp	            D		            100
+Break Time	        Curaga	                Renewal Block	    N		            10
+Break Time	        Curaga	                Renewal Barrier	    N		            10
+Break Time	        Curaga	                Focus Block	        P		            10
+Break Time	        Curaga	                Focus Barrier	    P		            10 
