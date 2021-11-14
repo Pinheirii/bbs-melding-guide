@@ -1,49 +1,61 @@
 import { Component } from "react";
 import CharacterCheckbox from './CharacterCheckbox';
-import Characters from './characters.json';
-import MeldingRules from "./meldingrules.json";
+import Characters from './data/characters.json';
+import MeldingRules from "./data/meldingrules.json";
+import Typemappings from "./data/typemappings.json";
 
 class SearchMask extends Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.meldingRules = MeldingRules.recipes;
-        this.typemapping = MeldingRules.typemapping; 
-        this.characterArray = Characters.characters;
+        this.typemappings = Typemappings.typemappings;
+        this.characters = Characters.characters;
+
+        this.onChangeCheckbox = this.onChangeCheckbox.bind(this);
+        this.onChangeCommand = this.onChangeCommand.bind(this);
+        this.onChangeAbility = this.onChangeAbility.bind(this);
     }
-    onClickButton() {
-        console.log("button clicked!")
-    }
+
     render() {
         return (
             <div>
                 <div className="CommandDropdown">
                     <p>Commands</p>
-                    <select name="commands" id="commands">
+                    <select value={this.props.selectedCommand} onChange={this.onChangeCommand}>
                         <SelectItem item={null} />
-                        {this.meldingRules.map(rule => rule.command).filter((value, index, self) => self.indexOf(value) === index).map((command => {
-                            return <SelectItem item={command} />
-                        }))}
+                        {this.meldingRules.map(rule => rule.command).filter((value, index, self) => self.indexOf(value) === index).map(command => {
+                            return <SelectItem item={command} key={command} />
+                        })}
                     </select>
                 </div>
                 <div className="AbilityDropdown">
                     <p>Abilities</p>
-                    <select name="abilities" id="abilities">
-                        <SelectItem item={null} />
-                        {this.typemapping.map(typemapping => typemapping.outcome).filter((value, index, self) => self.indexOf(value) === index).map((type => {
-                            return <SelectItem item={type} />
-                        }))}
+                    <select value={this.props.selectedAbility} onChange={this.onChangeAbility}>
+                        <SelectItem item={''} />
+                        {this.typemappings.map(typemapping => typemapping.outcome).filter((value, index, self) => self.indexOf(value) === index).map(type => {
+                            return <SelectItem item={type} key={type} />
+                        })}
                     </select>
                 </div>
                 <div className="Characterfilter">
-                    {this.characterArray.map((character) => {
-                        return <CharacterCheckbox character={character} key={character.name} />
+                    {this.characters.map(char => {
+                        return <CharacterCheckbox character={char} key={char.name} isChecked={this.props.checkboxMap.get(char.name)} onCheckboxChange={this.onChangeCheckbox} />
                     })}
-                </div>
-                <div className="SearchButton">
-                    <button onClick={this.onClickButton}>Search</button>
                 </div>
             </div>
         );
+    }
+
+    onChangeCommand(event) {
+        this.props.onChangeCommand(event.target.value)
+    }
+
+    onChangeAbility(event) {
+        this.props.onChangeAbility(event.target.value)
+    }
+
+    onChangeCheckbox(name, isChecked) {
+        this.props.onChangeCheckbox(name, isChecked);
     }
 }
 

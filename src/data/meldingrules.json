@@ -1,0 +1,3533 @@
+{
+    "recipes": [
+        {
+            "identifier": "1",
+            "command": "Blitz",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Slot Edge",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "2",
+            "command": "Blitz",
+            "ingredient1": "Barrier Surge",
+            "ingredient2": "Wishing Edge",
+            "type": "P",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "3",
+            "command": "Blitz",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Slot Edge",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "4",
+            "command": "Meteor Crash",
+            "ingredient1": "Blitz",
+            "ingredient2": "Quake",
+            "type": "N",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "5",
+            "command": "Meteor Crash",
+            "ingredient1": "Fire Strike",
+            "ingredient2": "Brutal Blast",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "6",
+            "command": "Magic Hour",
+            "ingredient1": "Blitz",
+            "ingredient2": "Zero Graviga",
+            "type": "O",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "7",
+            "command": "Magic Hour",
+            "ingredient1": "Barrier Surge",
+            "ingredient2": "Aeroga",
+            "type": "N",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "8",
+            "command": "Fire Dash",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Fire",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "9",
+            "command": "Fire Dash",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Fira",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "10",
+            "command": "Fire Dash",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Fire",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "11",
+            "command": "Dark Haze",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Zero Gravira",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "12",
+            "command": "Dark Haze",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Blackout",
+            "type": "A",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "13",
+            "command": "Dark Haze",
+            "ingredient1": "Fire Surge",
+            "ingredient2": "Zero Gravity",
+            "type": "C",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "14",
+            "command": "Sonic Blade",
+            "ingredient1": "Blitz",
+            "ingredient2": "Dark Haze",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "15",
+            "command": "Sonic Blade",
+            "ingredient1": "Blitz",
+            "ingredient2": "Air Slide",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "16",
+            "command": "Sonic Blade",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Thunder Surge",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "17",
+            "command": "Chaos Blade",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Sonic Blade",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "18",
+            "command": "Zantetsuken",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Stopga",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "19",
+            "command": "Zantetsuken",
+            "ingredient1": "Sonic Blade",
+            "ingredient2": "Stopga",
+            "type": "F",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "20",
+            "command": "Strike Raid",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Sliding Dash",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "21",
+            "command": "Freeze Raid",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Blizzara",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "22",
+            "command": "Freeze Raid",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Binding Strike",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "23",
+            "command": "Treasure Raid",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Slot Edge",
+            "type": "O",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "24",
+            "command": "Treasure Raid",
+            "ingredient1": "Slot Edge",
+            "ingredient2": "Magnet",
+            "type": "D",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "25",
+            "command": "Treasure Raid",
+            "ingredient1": "Slot Edge",
+            "ingredient2": "Magnera",
+            "type": "K",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "26",
+            "command": "Spark Raid",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Magnega",
+            "type": "J",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "27",
+            "command": "Spark Raid",
+            "ingredient1": "Treasure Raid",
+            "ingredient2": "Magnega",
+            "type": "N",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "28",
+            "command": "Spark Raid",
+            "ingredient1": "Thunder Surge",
+            "ingredient2": "Dodge Roll",
+            "type": "P",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "29",
+            "command": "Spark Raid",
+            "ingredient1": "Thundaga",
+            "ingredient2": "Dodge Roll",
+            "type": "L",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "30",
+            "command": "Spark Raid",
+            "ingredient1": "Dodge Roll",
+            "ingredient2": "Stun Block",
+            "type": "L",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "31",
+            "command": "Wind Raid",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Aeroga",
+            "type": "B",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "32",
+            "command": "Wind Raid",
+            "ingredient1": "Treasure Raid",
+            "ingredient2": "Aeroga",
+            "type": "F",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "33",
+            "command": "Fire Surge",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Ignite",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "34",
+            "command": "Fire Surge",
+            "ingredient1": "Fire Strike",
+            "ingredient2": "Fira",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "35",
+            "command": "Fire Surge",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Fira",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "36",
+            "command": "Fire Surge",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Fira",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "37",
+            "command": "Barrier Surge",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Barrier",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "38",
+            "command": "Barrier Surge",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Barrier",
+            "type": "K",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "39",
+            "command": "Thunder Surge",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Thundara",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "40",
+            "command": "Thunder Surge",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Thundara",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "41",
+            "command": "Thunder Surge",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Thundara",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "42",
+            "command": "Thunder Surge",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Thundara",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "43",
+            "command": "Aerial Slam",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "High Jump",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "44",
+            "command": "Aerial Slam",
+            "ingredient1": "Fire Surge",
+            "ingredient2": "Aero",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "45",
+            "command": "Aerial Slam",
+            "ingredient1": "Fire Strike",
+            "ingredient2": "Aerora",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "46",
+            "command": "Ars Solum",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Sonic Blade",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "47",
+            "command": "Ars Solum",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Stopga",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "48",
+            "command": "Ars Solum",
+            "ingredient1": "Sonic Blade",
+            "ingredient2": "Stopga",
+            "type": "F",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "49",
+            "command": "Ars Solum",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Thunder",
+            "type": "K",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "50",
+            "command": "Ars Solum",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thunder",
+            "type": "L",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "51",
+            "command": "Ars Solum",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thundara",
+            "type": "K",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "52",
+            "command": "Ars Solum",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Thundara",
+            "type": "I",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "53",
+            "command": "Ars Arcanum",
+            "ingredient1": "Blitz",
+            "ingredient2": "Aerial Slam",
+            "type": "F",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "54",
+            "command": "Ars Arcanum",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Slot Edge",
+            "type": "O",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "55",
+            "command": "Ars Arcanum",
+            "ingredient1": "Fire Strike",
+            "ingredient2": "Aerora",
+            "type": "C",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "56",
+            "command": "Ars Arcanum",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Blizzard",
+            "type": "G",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "57",
+            "command": "Ars Arcanum",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Blizzara",
+            "type": "H",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "58",
+            "command": "Ars Arcanum",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Blizzard",
+            "type": "E",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "59",
+            "command": "Ars Arcanum",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Blizzara",
+            "type": "G",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "60",
+            "command": "Ars Arcanum",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Cura",
+            "type": "P",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "61",
+            "command": "Ars Arcanum",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Cura",
+            "type": "G",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "62",
+            "command": "Time Splicer",
+            "ingredient1": "Aerial Slam",
+            "ingredient2": "Stopga",
+            "type": "F",
+            "usedBy": [
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "63",
+            "command": "Time Splicer",
+            "ingredient1": "Stopga",
+            "ingredient2": "Barrier",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "64",
+            "command": "Time Splicer",
+            "ingredient1": "Barrier Surge",
+            "ingredient2": "Wishing Edge",
+            "type": "P",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "65",
+            "command": "Time Splicer",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Slot Edge",
+            "type": "K",
+            "usedBy": [
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "66",
+            "command": "Poison Edge",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Poison",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "67",
+            "command": "Poison Edge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Poison",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "68",
+            "command": "Poison Edge",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Poison",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "69",
+            "command": "Wishing Edge",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Barrier Surge",
+            "type": "O",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "70",
+            "command": "Wishing Edge",
+            "ingredient1": "Barrier Surge",
+            "ingredient2": "Stun Edge",
+            "type": "K",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "71",
+            "command": "Wishing Edge",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Binding Strike",
+            "type": "J",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "72",
+            "command": "Blizzard Edge",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Blizzard",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "73",
+            "command": "Blizzard Edge",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Blizzara",
+            "type": "H",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "74",
+            "command": "Blizzard Edge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Blizzard",
+            "type": "E",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "75",
+            "command": "Blizzard Edge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Blizzara",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "76",
+            "command": "Stun Edge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Thunder",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "77",
+            "command": "Stun Edge",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thunder",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "78",
+            "command": "Stun Edge",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thundara",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "79",
+            "command": "Slot Edge",
+            "ingredient1": "Wishing Edge",
+            "ingredient2": "Cure",
+            "type": "O",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "80",
+            "command": "Slot Edge",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Cura",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "81",
+            "command": "Slot Edge",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Cura",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "82",
+            "command": "Slot Edge",
+            "ingredient1": "Curaga",
+            "ingredient2": "Renewal Block",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "83",
+            "command": "Slot Edge",
+            "ingredient1": "Curaga",
+            "ingredient2": "Focus Block",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "84",
+            "command": "Slot Edge",
+            "ingredient1": "Curaga",
+            "ingredient2": "Renewal Barrier",
+            "type": "N",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "85",
+            "command": "Slot Edge",
+            "ingredient1": "Curaga",
+            "ingredient2": "Focus Barrier",
+            "type": "P",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "86",
+            "command": "Fire Strike",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Fira",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "87",
+            "command": "Fire Strike",
+            "ingredient1": "Wishing Edge",
+            "ingredient2": "Ignite",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "88",
+            "command": "Fire Strike",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Fire",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "89",
+            "command": "Confusion Strike",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Confuse",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "90",
+            "command": "Confusion Strike",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Zero Gravity",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "91",
+            "command": "Confusion Strike",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Confuse",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "92",
+            "command": "Binding Strike",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Bind",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "93",
+            "command": "Binding Strike",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Bind",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "94",
+            "command": "Binding Strike",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Zero Gravity",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "95",
+            "command": "Brutal Blast",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Mine Shield",
+            "type": "O",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 70
+        },
+        {
+            "identifier": "96",
+            "command": "Brutal Blast",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Mine Square",
+            "type": "L",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 70
+        },
+        {
+            "identifier": "97",
+            "command": "Tornado Strike",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Aeroga",
+            "type": "G",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "98",
+            "command": "Tornado Strike",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Aeroga",
+            "type": "F",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "99",
+            "command": "Magnet Spiral",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Collision Magnet",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "100",
+            "command": "Magnet Spiral",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Magnega",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "101",
+            "command": "Magnet Spiral",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Magnera",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "102",
+            "command": "Magnet Spiral",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Magnera",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "103",
+            "command": "Magnet Spiral",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Magnet",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "104",
+            "command": "Windcutter",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Aeroga",
+            "type": "F",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "105",
+            "command": "Windcutter",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Aeroga",
+            "type": "G",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "106",
+            "command": "Limit Storm",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Confusion Strike",
+            "type": "G",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "107",
+            "command": "Limit Storm",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Binding Strike",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "108",
+            "command": "Salvation",
+            "ingredient1": "Wind Raid",
+            "ingredient2": "Curaga",
+            "type": "N",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "109",
+            "command": "Collision Magnet",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Magnera",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "110",
+            "command": "Collision Magnet",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Magnera",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "111",
+            "command": "Collision Magnet",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Magnet",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "112",
+            "command": "Geo Impact",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Brutal Blast",
+            "type": "N",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 70
+        },
+        {
+            "identifier": "113",
+            "command": "Sacrifice",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Warp",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "114",
+            "command": "Sacrifice",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Warp",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "115",
+            "command": "Break Time",
+            "ingredient1": "Curaga",
+            "ingredient2": "Renewal Block",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "116",
+            "command": "Break Time",
+            "ingredient1": "Curaga",
+            "ingredient2": "Renewal Barrier",
+            "type": "N",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "117",
+            "command": "Break Time",
+            "ingredient1": "Curaga",
+            "ingredient2": "Focus Block",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "118",
+            "command": "Break Time",
+            "ingredient1": "Curaga",
+            "ingredient2": "Focus Barrier",
+            "type": "P",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "119",
+            "command": "Fira",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Fire",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "120",
+            "command": "Fira",
+            "ingredient1": "Fire Strike",
+            "ingredient2": "Fire",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "121",
+            "command": "Fira",
+            "ingredient1": "Fire",
+            "ingredient2": "Fire",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "122",
+            "command": "Fira",
+            "ingredient1": "Fire",
+            "ingredient2": "Ignite",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "123",
+            "command": "Firaga",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Fira",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "124",
+            "command": "Firaga",
+            "ingredient1": "Fire",
+            "ingredient2": "Fira",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "125",
+            "command": "Firaga",
+            "ingredient1": "Fira",
+            "ingredient2": "Fira",
+            "type": "B",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "126",
+            "command": "Dark Firaga",
+            "ingredient1": "Dark Haze",
+            "ingredient2": "Firaga",
+            "type": "D",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "127",
+            "command": "Dark Firaga",
+            "ingredient1": "Firaga",
+            "ingredient2": "Blackout",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "128",
+            "command": "Fission Firaga",
+            "ingredient1": "Fira",
+            "ingredient2": "Aeroga",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "129",
+            "command": "Fission Firaga",
+            "ingredient1": "Firaga",
+            "ingredient2": "Aerora",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "130",
+            "command": "Fission Firaga",
+            "ingredient1": "Firaga",
+            "ingredient2": "Aeroga",
+            "type": "B",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "131",
+            "command": "Triple Firaga",
+            "ingredient1": "Fira",
+            "ingredient2": "Firaga",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "132",
+            "command": "Triple Firaga",
+            "ingredient1": "Blitz",
+            "ingredient2": "Firaga",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "133",
+            "command": "Triple Firaga",
+            "ingredient1": "Firaga",
+            "ingredient2": "Firaga",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "134",
+            "command": "Crawling Fire",
+            "ingredient1": "Firaga",
+            "ingredient2": "Slow",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "135",
+            "command": "Crawling Fire",
+            "ingredient1": "Firaga",
+            "ingredient2": "Stopra",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "136",
+            "command": "Crawling Fire",
+            "ingredient1": "Firaga",
+            "ingredient2": "Stopga",
+            "type": "B",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "137",
+            "command": "Blizzara",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Blizzard",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "138",
+            "command": "Blizzara",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Blizzard",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "139",
+            "command": "Blizzara",
+            "ingredient1": "Blizzard",
+            "ingredient2": "Blizzard",
+            "type": "E",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "140",
+            "command": "Blizzara",
+            "ingredient1": "Blizzard",
+            "ingredient2": "Aero",
+            "type": "H",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "141",
+            "command": "Blizzaga",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Blizzara",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "142",
+            "command": "Blizzaga",
+            "ingredient1": "Blizzard",
+            "ingredient2": "Blizzara",
+            "type": "E",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "143",
+            "command": "Blizzaga",
+            "ingredient1": "Blizzara",
+            "ingredient2": "Blizzara",
+            "type": "F",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "144",
+            "command": "Triple Blizzaga",
+            "ingredient1": "Blitz",
+            "ingredient2": "Blizzaga",
+            "type": "G",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "145",
+            "command": "Triple Blizzaga",
+            "ingredient1": "Blizzara",
+            "ingredient2": "Blizzaga",
+            "type": "E",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "146",
+            "command": "Triple Blizzaga",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Blizzaga",
+            "type": "F",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "147",
+            "command": "Thundara",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Thunder",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "148",
+            "command": "Thundara",
+            "ingredient1": "Thunder",
+            "ingredient2": "Thunder",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "149",
+            "command": "Thundara",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Magnet",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "150",
+            "command": "Thundaga",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Thundara",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "151",
+            "command": "Thundaga",
+            "ingredient1": "Thunder",
+            "ingredient2": "Thundara",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "152",
+            "command": "Thundaga",
+            "ingredient1": "Thundara",
+            "ingredient2": "Thundara",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "153",
+            "command": "Thundaga Shot",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thundaga",
+            "type": "I",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 85
+        },
+        {
+            "identifier": "154",
+            "command": "Thundaga Shot",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Thundaga",
+            "type": "E",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 85
+        },
+        {
+            "identifier": "155",
+            "command": "Thundaga Shot",
+            "ingredient1": "Firaga",
+            "ingredient2": "Thundaga",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 85
+        },
+        {
+            "identifier": "156",
+            "command": "Cura",
+            "ingredient1": "Thunder",
+            "ingredient2": "Cure",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "157",
+            "command": "Cura",
+            "ingredient1": "Cure",
+            "ingredient2": "Cure",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "158",
+            "command": "Cura",
+            "ingredient1": "Cure",
+            "ingredient2": "Aero",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "159",
+            "command": "Curaga",
+            "ingredient1": "Cure",
+            "ingredient2": "Cura",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "160",
+            "command": "Curaga",
+            "ingredient1": "Cura",
+            "ingredient2": "Cura",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "161",
+            "command": "Mine Shield",
+            "ingredient1": "Fira",
+            "ingredient2": "Zero Gravity",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "162",
+            "command": "Mine Shield",
+            "ingredient1": "Fira",
+            "ingredient2": "Block",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "163",
+            "command": "Mine Shield",
+            "ingredient1": "Ignite",
+            "ingredient2": "Stop",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "164",
+            "command": "Mine Shield",
+            "ingredient1": "Stopra",
+            "ingredient2": "Block",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "165",
+            "command": "Mine Square",
+            "ingredient1": "Fira",
+            "ingredient2": "Stop",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "166",
+            "command": "Mine Square",
+            "ingredient1": "Fira",
+            "ingredient2": "Barrier",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "167",
+            "command": "Mine Square",
+            "ingredient1": "Aerora",
+            "ingredient2": "Ignite",
+            "type": "D",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "168",
+            "command": "Mine Square",
+            "ingredient1": "Stopra",
+            "ingredient2": "Barrier",
+            "type": "M",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "169",
+            "command": "Seeker Mine",
+            "ingredient1": "Mine Shield",
+            "ingredient2": "Mine Square",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "170",
+            "command": "Seeker Mine",
+            "ingredient1": "Mine Shield",
+            "ingredient2": "Magnega",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "171",
+            "command": "Seeker Mine",
+            "ingredient1": "Mine Square",
+            "ingredient2": "Magnega",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "172",
+            "command": "Zero Gravira",
+            "ingredient1": "Thunder",
+            "ingredient2": "Zero Gravity",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "173",
+            "command": "Zero Gravira",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Zero Gravity",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "174",
+            "command": "Zero Gravira",
+            "ingredient1": "Magnet",
+            "ingredient2": "Aero",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "175",
+            "command": "Zero Graviga",
+            "ingredient1": "Thundara",
+            "ingredient2": "Zero Gravira",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "176",
+            "command": "Zero Graviga",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Zero Gravira",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "177",
+            "command": "Zero Graviga",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Zero Gravira",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "178",
+            "command": "Magnera",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Magnet",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "179",
+            "command": "Magnera",
+            "ingredient1": "Thunder",
+            "ingredient2": "Magnet",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "180",
+            "command": "Magnera",
+            "ingredient1": "Magnet",
+            "ingredient2": "Magnet",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "181",
+            "command": "Magnega",
+            "ingredient1": "Magnet",
+            "ingredient2": "Magnera",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "182",
+            "command": "Magnega",
+            "ingredient1": "Magnera",
+            "ingredient2": "Magnera",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "183",
+            "command": "Munny Magnet",
+            "ingredient1": "Wishing Edge",
+            "ingredient2": "Magnera",
+            "type": "K",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "184",
+            "command": "Munny Magnet",
+            "ingredient1": "Thundara",
+            "ingredient2": "Magnera",
+            "type": "I",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "185",
+            "command": "Energy Magnet",
+            "ingredient1": "Cure",
+            "ingredient2": "Magnera",
+            "type": "M",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "186",
+            "command": "Energy Magnet",
+            "ingredient1": "Cura",
+            "ingredient2": "Magnera",
+            "type": "N",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "187",
+            "command": "D-Link Magnet",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Magnera",
+            "type": "L",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "188",
+            "command": "D-Link Magnet",
+            "ingredient1": "Magnera",
+            "ingredient2": "Stopra",
+            "type": "I",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "189",
+            "command": "Aerora",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Aero",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "190",
+            "command": "Aerora",
+            "ingredient1": "Thunder",
+            "ingredient2": "Aero",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "191",
+            "command": "Aerora",
+            "ingredient1": "Aero",
+            "ingredient2": "Aero",
+            "type": "E",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 95
+        },
+        {
+            "identifier": "192",
+            "command": "Aeroga",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Aerora",
+            "type": "O",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "193",
+            "command": "Aeroga",
+            "ingredient1": "Aero",
+            "ingredient2": "Aerora",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "194",
+            "command": "Aeroga",
+            "ingredient1": "Aerora",
+            "ingredient2": "Aerora",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "195",
+            "command": "Warp",
+            "ingredient1": "Thundara",
+            "ingredient2": "Zero Gravira",
+            "type": "I",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "196",
+            "command": "Warp",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Zero Gravira",
+            "type": "M",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "197",
+            "command": "Warp",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Zero Gravira",
+            "type": "N",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "198",
+            "command": "Warp",
+            "ingredient1": "Thunder",
+            "ingredient2": "Zero Gravity",
+            "type": "I",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "199",
+            "command": "Warp",
+            "ingredient1": "Magnet",
+            "ingredient2": "Aero",
+            "type": "P",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "200",
+            "command": "Warp",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Zero Gravity",
+            "type": "M",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "201",
+            "command": "Faith",
+            "ingredient1": "Wind Raid",
+            "ingredient2": "Break Time",
+            "type": "N",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "202",
+            "command": "Deep Freeze",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Blizzaga",
+            "type": "G",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "203",
+            "command": "Deep Freeze",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Blizzaga",
+            "type": "H",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "204",
+            "command": "Deep Freeze",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Triple Blizzaga",
+            "type": "F",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "205",
+            "command": "Glacier",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Deep Freeze",
+            "type": "E",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "206",
+            "command": "Glacier",
+            "ingredient1": "Triple Blizzaga",
+            "ingredient2": "Deep Freeze",
+            "type": "F",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "207",
+            "command": "Ice Barrage",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Mine Shield",
+            "type": "F",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "208",
+            "command": "Ice Barrage",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Mine Square",
+            "type": "H",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "209",
+            "command": "Firaga Burst",
+            "ingredient1": "Fira",
+            "ingredient2": "Aeroga",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "210",
+            "command": "Firaga Burst",
+            "ingredient1": "Firaga",
+            "ingredient2": "Aerora",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "211",
+            "command": "Firaga Burst",
+            "ingredient1": "Firaga",
+            "ingredient2": "Aeroga",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "212",
+            "command": "Firaga Burst",
+            "ingredient1": "Firaga",
+            "ingredient2": "Slow",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "213",
+            "command": "Firaga Burst",
+            "ingredient1": "Firaga",
+            "ingredient2": "Stopra",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "214",
+            "command": "Firaga Burst",
+            "ingredient1": "Firaga",
+            "ingredient2": "Stopga",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "215",
+            "command": "Raging Storm",
+            "ingredient1": "Fission Firaga",
+            "ingredient2": "Firaga Burst",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "216",
+            "command": "Raging Storm",
+            "ingredient1": "Blitz",
+            "ingredient2": "Firaga",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "217",
+            "command": "Raging Storm",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Fira",
+            "type": "D",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "218",
+            "command": "Raging Storm",
+            "ingredient1": "Fire Surge",
+            "ingredient2": "Cartwheel",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "219",
+            "command": "Raging Storm",
+            "ingredient1": "Fire",
+            "ingredient2": "Fira",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "220",
+            "command": "Raging Storm",
+            "ingredient1": "Fira",
+            "ingredient2": "Fira",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "221",
+            "command": "Raging Storm",
+            "ingredient1": "Fira",
+            "ingredient2": "Firaga",
+            "type": "A",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "222",
+            "command": "Raging Storm",
+            "ingredient1": "Firaga",
+            "ingredient2": "Firaga",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "223",
+            "command": "Mega Flare",
+            "ingredient1": "Fission Firaga",
+            "ingredient2": "Crawling Fire",
+            "type": "B",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "224",
+            "command": "Quake",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Zero Graviga",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "225",
+            "command": "Quake",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Magnega",
+            "type": "C",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "226",
+            "command": "Quake",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Mine Shield",
+            "type": "O",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 30
+        },
+        {
+            "identifier": "227",
+            "command": "Quake",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Mine Square",
+            "type": "L",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 30
+        },
+        {
+            "identifier": "228",
+            "command": "Quake",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Brutal Blast",
+            "type": "N",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 30
+        },
+        {
+            "identifier": "229",
+            "command": "Meteor",
+            "ingredient1": "Geo Impact",
+            "ingredient2": "Quake",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "230",
+            "command": "Meteor",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Zero Graviga",
+            "type": "B",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "231",
+            "command": "Meteor",
+            "ingredient1": "Brutal Blast",
+            "ingredient2": "Magnega",
+            "type": "C",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "232",
+            "command": "Tornado",
+            "ingredient1": "Magnega",
+            "ingredient2": "Aeroga",
+            "type": "N",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "233",
+            "command": "Tornado",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Aerora",
+            "type": "O",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "234",
+            "command": "Tornado",
+            "ingredient1": "Aero",
+            "ingredient2": "Aerora",
+            "type": "M",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "235",
+            "command": "Tornado",
+            "ingredient1": "Aerora",
+            "ingredient2": "Aerora",
+            "type": "N",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "236",
+            "command": "Tornado",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Aero",
+            "type": "G",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "237",
+            "command": "Tornado",
+            "ingredient1": "Thunder",
+            "ingredient2": "Aero",
+            "type": "I",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "238",
+            "command": "Tornado",
+            "ingredient1": "Aero",
+            "ingredient2": "Aero",
+            "type": "E",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "239",
+            "command": "Transcendence",
+            "ingredient1": "Magnet Spiral",
+            "ingredient2": "Zero Graviga",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "240",
+            "command": "Mini",
+            "ingredient1": "Magnera",
+            "ingredient2": "Warp",
+            "type": "N",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "241",
+            "command": "Mini",
+            "ingredient1": "Magnega",
+            "ingredient2": "Magnega",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "242",
+            "command": "Mini",
+            "ingredient1": "Magnega",
+            "ingredient2": "Bind",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "243",
+            "command": "Blackout",
+            "ingredient1": "Zero Gravity",
+            "ingredient2": "Confuse",
+            "type": "M",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "244",
+            "command": "Blackout",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Confuse",
+            "type": "N",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "245",
+            "command": "Blackout",
+            "ingredient1": "Zero Gravira",
+            "ingredient2": "Poison",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "246",
+            "command": "Ignite",
+            "ingredient1": "Fire",
+            "ingredient2": "Bind",
+            "type": "A",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "247",
+            "command": "Ignite",
+            "ingredient1": "Fira",
+            "ingredient2": "Bind",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "248",
+            "command": "Stopra",
+            "ingredient1": "Slow",
+            "ingredient2": "Slow",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "249",
+            "command": "Stopra",
+            "ingredient1": "Slow",
+            "ingredient2": "Stop",
+            "type": "K",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "250",
+            "command": "Stopra",
+            "ingredient1": "Stop",
+            "ingredient2": "Stop",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "251",
+            "command": "Stopga",
+            "ingredient1": "Stop",
+            "ingredient2": "Stopra",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "252",
+            "command": "Stopga",
+            "ingredient1": "Stopra",
+            "ingredient2": "Stopra",
+            "type": "J",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "253",
+            "command": "Homing Slide",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Magnera",
+            "type": "P",
+            "usedBy": [
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "254",
+            "command": "Homing Slide",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Air Slide",
+            "type": "C",
+            "usedBy": [
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "255",
+            "command": "Homing Slide",
+            "ingredient1": "Magnet",
+            "ingredient2": "Air Slide",
+            "type": "L",
+            "usedBy": [
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "256",
+            "command": "Thunder Roll",
+            "ingredient1": "Thunder Surge",
+            "ingredient2": "Dodge Roll",
+            "type": "P",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "257",
+            "command": "Thunder Roll",
+            "ingredient1": "Thundaga",
+            "ingredient2": "Dodge Roll",
+            "type": "L",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "258",
+            "command": "Thunder Roll",
+            "ingredient1": "Stun Block",
+            "ingredient2": "Dodge Roll",
+            "type": "L",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "259",
+            "command": "Firewheel",
+            "ingredient1": "Firaga",
+            "ingredient2": "Cartwheel",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "260",
+            "command": "Firewheel",
+            "ingredient1": "Fission Firaga",
+            "ingredient2": "Cartwheel",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "261",
+            "command": "Firewheel",
+            "ingredient1": "Fire Surge",
+            "ingredient2": "Cartwheel",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 90
+        },
+        {
+            "identifier": "262",
+            "command": "Ice Slide",
+            "ingredient1": "Blizzard Edge",
+            "ingredient2": "Air Slide",
+            "type": "F",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "263",
+            "command": "Ice Slide",
+            "ingredient1": "Blizzaga",
+            "ingredient2": "Air Slide",
+            "type": "H",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "264",
+            "command": "Fire Glide",
+            "ingredient1": "Fire Surge",
+            "ingredient2": "Glide",
+            "type": "C",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "265",
+            "command": "Fire Glide",
+            "ingredient1": "Firaga",
+            "ingredient2": "Glide",
+            "type": "B",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "266",
+            "command": "Renewal Block",
+            "ingredient1": "Curaga",
+            "ingredient2": "Block",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "267",
+            "command": "Renewal Block",
+            "ingredient1": "Esuna",
+            "ingredient2": "Block",
+            "type": "C",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "268",
+            "command": "Stun Block",
+            "ingredient1": "Stun Edge",
+            "ingredient2": "Block",
+            "type": "L",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "269",
+            "command": "Stun Block",
+            "ingredient1": "Thundaga",
+            "ingredient2": "Block",
+            "type": "I",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "270",
+            "command": "Poison Block",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Block",
+            "type": "H",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "271",
+            "command": "Poison Block",
+            "ingredient1": "Poison",
+            "ingredient2": "Block",
+            "type": "P",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "272",
+            "command": "Renewal Barrier",
+            "ingredient1": "Curaga",
+            "ingredient2": "Barrier",
+            "type": "P",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "273",
+            "command": "Renewal Barrier",
+            "ingredient1": "Esuna",
+            "ingredient2": "Barrier",
+            "type": "N",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "274",
+            "command": "Confuse Barrier",
+            "ingredient1": "Confusion Strike",
+            "ingredient2": "Barrier",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "275",
+            "command": "Confuse Barrier",
+            "ingredient1": "Confuse",
+            "ingredient2": "Barrier",
+            "type": "L",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "276",
+            "command": "Stop Barrier",
+            "ingredient1": "Stopga",
+            "ingredient2": "Barrier",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 80
+        },
+        {
+            "identifier": "277",
+            "command": "Payback Fang",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Counter Hammer",
+            "type": "P",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "278",
+            "command": "Payback Raid",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Strike Raid",
+            "type": "P",
+            "usedBy": [
+                "V"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "279",
+            "command": "Payback Surge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Fire Surge",
+            "type": "C",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "280",
+            "command": "Payback Surge",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Thunder Surge",
+            "type": "L",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 100
+        },
+        {
+            "identifier": "281",
+            "command": "Lightning Ray",
+            "ingredient1": "Blitz",
+            "ingredient2": "Dark Haze",
+            "type": "-",
+            "usedBy": [
+                "T"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "282",
+            "command": "Lightning Ray",
+            "ingredient1": "Blitz",
+            "ingredient2": "Air Slide",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "283",
+            "command": "Lightning Ray",
+            "ingredient1": "Fire Dash",
+            "ingredient2": "Thunder Surge",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "284",
+            "command": "Lightning Ray",
+            "ingredient1": "Binding Strike",
+            "ingredient2": "Thundara",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "285",
+            "command": "Lightning Ray",
+            "ingredient1": "Thunder",
+            "ingredient2": "Thundara",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "286",
+            "command": "Lightning Ray",
+            "ingredient1": "Thundara",
+            "ingredient2": "Thundara",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "287",
+            "command": "Lightning Ray",
+            "ingredient1": "Aeroga",
+            "ingredient2": "Barrier Surge",
+            "type": "-",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "288",
+            "command": "Meteor Shower",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Thundaga",
+            "type": "-",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 15
+        },
+        {
+            "identifier": "289",
+            "command": "Meteor Shower",
+            "ingredient1": "Freeze Raid",
+            "ingredient2": "Thundaga",
+            "type": "-",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 15
+        },
+        {
+            "identifier": "290",
+            "command": "Meteor Shower",
+            "ingredient1": "Firaga",
+            "ingredient2": "Thundaga",
+            "type": "-",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 15
+        },
+        {
+            "identifier": "291",
+            "command": "Meteor Shower",
+            "ingredient1": "Blitz",
+            "ingredient2": "Zero Graviga",
+            "type": "-",
+            "usedBy": [
+                "A"
+            ],
+            "percentage": 10
+        },
+        {
+            "identifier": "292",
+            "command": "Bio Barrage",
+            "ingredient1": "Poison Edge",
+            "ingredient2": "Block",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "293",
+            "command": "Bio Barrage",
+            "ingredient1": "Poison",
+            "ingredient2": "Block",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V"
+            ],
+            "percentage": 20
+        },
+        {
+            "identifier": "294",
+            "command": "Bio Barrage",
+            "ingredient1": "Quick Blitz",
+            "ingredient2": "Poison",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "295",
+            "command": "Bio Barrage",
+            "ingredient1": "Sliding Dash",
+            "ingredient2": "Poison",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 5
+        },
+        {
+            "identifier": "296",
+            "command": "Bio Barrage",
+            "ingredient1": "Strike Raid",
+            "ingredient2": "Poison",
+            "type": "-",
+            "usedBy": [
+                "T",
+                "V",
+                "A"
+            ],
+            "percentage": 5
+        }
+    ]
+}

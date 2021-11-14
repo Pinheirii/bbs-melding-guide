@@ -1,0 +1,676 @@
+{
+    "typemappings": [
+        {
+            "identifier": "type_0_0",
+            "type": "A",
+            "crystal": "Shimmering",
+            "outcome": "Fire Boost"
+        },
+        {
+            "identifier": "type_0_1",
+            "type": "B",
+            "crystal": "Shimmering",
+            "outcome": "Fire Boost"
+        },
+        {
+            "identifier": "type_0_2",
+            "type": "C",
+            "crystal": "Shimmering",
+            "outcome": "Fire Screen"
+        },
+        {
+            "identifier": "type_0_3",
+            "type": "D",
+            "crystal": "Shimmering",
+            "outcome": "Fire Screen"
+        },
+        {
+            "identifier": "type_0_4",
+            "type": "E",
+            "crystal": "Shimmering",
+            "outcome": "Blizzard Boost"
+        },
+        {
+            "identifier": "type_0_5",
+            "type": "F",
+            "crystal": "Shimmering",
+            "outcome": "Blizzard Boost"
+        },
+        {
+            "identifier": "type_0_6",
+            "type": "G",
+            "crystal": "Shimmering",
+            "outcome": "Blizzard Screen"
+        },
+        {
+            "identifier": "type_0_7",
+            "type": "H",
+            "crystal": "Shimmering",
+            "outcome": "Blizzard Screen"
+        },
+        {
+            "identifier": "type_0_8",
+            "type": "I",
+            "crystal": "Shimmering",
+            "outcome": "Thunder Boost"
+        },
+        {
+            "identifier": "type_0_9",
+            "type": "J",
+            "crystal": "Shimmering",
+            "outcome": "Thunder Boost"
+        },
+        {
+            "identifier": "type_0_10",
+            "type": "K",
+            "crystal": "Shimmering",
+            "outcome": "Thunder Screen"
+        },
+        {
+            "identifier": "type_0_11",
+            "type": "L",
+            "crystal": "Shimmering",
+            "outcome": "Thunder Screen"
+        },
+        {
+            "identifier": "type_0_12",
+            "type": "M",
+            "crystal": "Shimmering",
+            "outcome": "Cure Boost"
+        },
+        {
+            "identifier": "type_0_13",
+            "type": "N",
+            "crystal": "Shimmering",
+            "outcome": "Cure Boost"
+        },
+        {
+            "identifier": "type_0_14",
+            "type": "O",
+            "crystal": "Shimmering",
+            "outcome": "Dark Screen"
+        },
+        {
+            "identifier": "type_0_15",
+            "type": "P",
+            "crystal": "Shimmering",
+            "outcome": "Dark Screen"
+        },
+        {
+            "identifier": "type_1_0",
+            "type": "A",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_1_1",
+            "type": "B",
+            "crystal": "Fleeting",
+            "outcome": "Reload Boost"
+        },
+        {
+            "identifier": "type_1_2",
+            "type": "C",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_3",
+            "type": "D",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_4",
+            "type": "E",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_1_5",
+            "type": "F",
+            "crystal": "Fleeting",
+            "outcome": "Reload Boost"
+        },
+        {
+            "identifier": "type_1_6",
+            "type": "G",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_7",
+            "type": "H",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_1_8",
+            "type": "I",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_1_9",
+            "type": "J",
+            "crystal": "Fleeting",
+            "outcome": "Reload Boost"
+        },
+        {
+            "identifier": "type_1_10",
+            "type": "K",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_11",
+            "type": "L",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_12",
+            "type": "M",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_1_13",
+            "type": "N",
+            "crystal": "Fleeting",
+            "outcome": "Reload Boost"
+        },
+        {
+            "identifier": "type_1_14",
+            "type": "O",
+            "crystal": "Fleeting",
+            "outcome": "Attack Haste"
+        },
+        {
+            "identifier": "type_1_15",
+            "type": "P",
+            "crystal": "Fleeting",
+            "outcome": "Magic Haste"
+        },
+        {
+            "identifier": "type_2_0",
+            "type": "A",
+            "crystal": "Pulsing",
+            "outcome": "Leaf Bracer"
+        },
+        {
+            "identifier": "type_2_1",
+            "type": "B",
+            "crystal": "Pulsing",
+            "outcome": "Finish Boost"
+        },
+        {
+            "identifier": "type_2_2",
+            "type": "C",
+            "crystal": "Pulsing",
+            "outcome": "Finish Boost"
+        },
+        {
+            "identifier": "type_2_3",
+            "type": "D",
+            "crystal": "Pulsing",
+            "outcome": "Leaf Bracer"
+        },
+        {
+            "identifier": "type_2_4",
+            "type": "E",
+            "crystal": "Pulsing",
+            "outcome": "Leaf Bracer"
+        },
+        {
+            "identifier": "type_2_5",
+            "type": "F",
+            "crystal": "Pulsing",
+            "outcome": "Second Chance"
+        },
+        {
+            "identifier": "type_2_6",
+            "type": "G",
+            "crystal": "Pulsing",
+            "outcome": "Leaf Bracer"
+        },
+        {
+            "identifier": "type_2_7",
+            "type": "H",
+            "crystal": "Pulsing",
+            "outcome": "Combo F Boost"
+        },
+        {
+            "identifier": "type_2_8",
+            "type": "I",
+            "crystal": "Pulsing",
+            "outcome": "Combo F Boost"
+        },
+        {
+            "identifier": "type_2_9",
+            "type": "J",
+            "crystal": "Pulsing",
+            "outcome": "Combo F Boost"
+        },
+        {
+            "identifier": "type_2_10",
+            "type": "K",
+            "crystal": "Pulsing",
+            "outcome": "Finish Boost"
+        },
+        {
+            "identifier": "type_2_11",
+            "type": "L",
+            "crystal": "Pulsing",
+            "outcome": "Finish Boost"
+        },
+        {
+            "identifier": "type_2_12",
+            "type": "M",
+            "crystal": "Pulsing",
+            "outcome": "Combo F Boost"
+        },
+        {
+            "identifier": "type_2_13",
+            "type": "N",
+            "crystal": "Pulsing",
+            "outcome": "Second Chance"
+        },
+        {
+            "identifier": "type_2_14",
+            "type": "O",
+            "crystal": "Pulsing",
+            "outcome": "Finish Boost"
+        },
+        {
+            "identifier": "type_2_15",
+            "type": "P",
+            "crystal": "Pulsing",
+            "outcome": "Combo F Boost"
+        },
+        {
+            "identifier": "type_3_0",
+            "type": "A",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_1",
+            "type": "B",
+            "crystal": "Wellspring",
+            "outcome": "Once More"
+        },
+        {
+            "identifier": "type_3_2",
+            "type": "C",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_3",
+            "type": "D",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_4",
+            "type": "E",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_5",
+            "type": "F",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_6",
+            "type": "G",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_7",
+            "type": "H",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_8",
+            "type": "I",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_9",
+            "type": "J",
+            "crystal": "Wellspring",
+            "outcome": "Once More"
+        },
+        {
+            "identifier": "type_3_10",
+            "type": "K",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_11",
+            "type": "L",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_12",
+            "type": "M",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_13",
+            "type": "N",
+            "crystal": "Wellspring",
+            "outcome": "Combo Plus"
+        },
+        {
+            "identifier": "type_3_14",
+            "type": "O",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_3_15",
+            "type": "P",
+            "crystal": "Wellspring",
+            "outcome": "Air Combo Plus"
+        },
+        {
+            "identifier": "type_4_0",
+            "type": "A",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_1",
+            "type": "B",
+            "crystal": "Soothing",
+            "outcome": "Damage Syphon"
+        },
+        {
+            "identifier": "type_4_2",
+            "type": "C",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_3",
+            "type": "D",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_4",
+            "type": "E",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_4_5",
+            "type": "F",
+            "crystal": "Soothing",
+            "outcome": "Damage Syphon"
+        },
+        {
+            "identifier": "type_4_6",
+            "type": "G",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_4_7",
+            "type": "H",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_4_8",
+            "type": "I",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_9",
+            "type": "J",
+            "crystal": "Soothing",
+            "outcome": "Defender"
+        },
+        {
+            "identifier": "type_4_10",
+            "type": "K",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_11",
+            "type": "L",
+            "crystal": "Soothing",
+            "outcome": "HP Boost"
+        },
+        {
+            "identifier": "type_4_12",
+            "type": "M",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_4_13",
+            "type": "N",
+            "crystal": "Soothing",
+            "outcome": "Defender"
+        },
+        {
+            "identifier": "type_4_14",
+            "type": "O",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_4_15",
+            "type": "P",
+            "crystal": "Soothing",
+            "outcome": "Item Boost"
+        },
+        {
+            "identifier": "type_5_0",
+            "type": "A",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_1",
+            "type": "B",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_2",
+            "type": "C",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_3",
+            "type": "D",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_4",
+            "type": "E",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_5",
+            "type": "F",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_6",
+            "type": "G",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_7",
+            "type": "H",
+            "crystal": "Hungry",
+            "outcome": "HP Prize Plus"
+        },
+        {
+            "identifier": "type_5_8",
+            "type": "I",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_9",
+            "type": "J",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_10",
+            "type": "K",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_11",
+            "type": "L",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_12",
+            "type": "M",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_13",
+            "type": "N",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_14",
+            "type": "O",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_5_15",
+            "type": "P",
+            "crystal": "Hungry",
+            "outcome": "Treasure Magnet"
+        },
+        {
+            "identifier": "type_6_0",
+            "type": "A",
+            "crystal": "Abounding",
+            "outcome": "Link Prize Plus"
+        },
+        {
+            "identifier": "type_6_1",
+            "type": "B",
+            "crystal": "Abounding",
+            "outcome": "EXP Chance"
+        },
+        {
+            "identifier": "type_6_2",
+            "type": "C",
+            "crystal": "Abounding",
+            "outcome": "Link Prize Plus"
+        },
+        {
+            "identifier": "type_6_3",
+            "type": "D",
+            "crystal": "Abounding",
+            "outcome": "Link Prize Plus"
+        },
+        {
+            "identifier": "type_6_4",
+            "type": "E",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_5",
+            "type": "F",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_6",
+            "type": "G",
+            "crystal": "Abounding",
+            "outcome": "Luck Boost"
+        },
+        {
+            "identifier": "type_6_7",
+            "type": "H",
+            "crystal": "Abounding",
+            "outcome": "EXP Walker"
+        },
+        {
+            "identifier": "type_6_8",
+            "type": "I",
+            "crystal": "Abounding",
+            "outcome": "Link Prize Plus"
+        },
+        {
+            "identifier": "type_6_9",
+            "type": "J",
+            "crystal": "Abounding",
+            "outcome": "EXP Chance"
+        },
+        {
+            "identifier": "type_6_10",
+            "type": "K",
+            "crystal": "Abounding",
+            "outcome": "Link Prize Plus"
+        },
+        {
+            "identifier": "type_6_11",
+            "type": "L",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_12",
+            "type": "M",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_13",
+            "type": "N",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_14",
+            "type": "O",
+            "crystal": "Abounding",
+            "outcome": "Lucky Strike"
+        },
+        {
+            "identifier": "type_6_15",
+            "type": "P",
+            "crystal": "Abounding",
+            "outcome": "EXP Walker"
+        }
+    ]
+}
