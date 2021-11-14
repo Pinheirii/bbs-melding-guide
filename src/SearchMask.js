@@ -10,6 +10,9 @@ class SearchMask extends Component {
         this.meldingRules = MeldingRules.recipes;
         this.typemappings = Typemappings.typemappings;
         this.characters = Characters.characters;
+        this.state = {
+            neededCrystal: ''
+        };
 
         this.onChangeCheckbox = this.onChangeCheckbox.bind(this);
         this.onChangeCommand = this.onChangeCommand.bind(this);
@@ -22,7 +25,7 @@ class SearchMask extends Component {
                 <div className="CommandDropdown">
                     <p>Commands</p>
                     <select value={this.props.selectedCommand} onChange={this.onChangeCommand}>
-                        <SelectItem item={null} />
+                        <SelectItem item={''} />
                         {this.meldingRules.map(rule => rule.command).filter((value, index, self) => self.indexOf(value) === index).map(command => {
                             return <SelectItem item={command} key={command} />
                         })}
@@ -36,6 +39,7 @@ class SearchMask extends Component {
                             return <SelectItem item={type} key={type} />
                         })}
                     </select>
+                    <p>Crystal: {this.state.neededCrystal}</p>
                 </div>
                 <div className="Characterfilter">
                     {this.characters.map(char => {
@@ -47,11 +51,18 @@ class SearchMask extends Component {
     }
 
     onChangeCommand(event) {
-        this.props.onChangeCommand(event.target.value)
+        this.props.onChangeCommand(event.target.value);
     }
 
     onChangeAbility(event) {
-        this.props.onChangeAbility(event.target.value)
+        const chosenOutcome = event.target.value;
+        const crystalname = this.typemappings.filter(type => type.outcome === chosenOutcome);
+        if (typeof crystalname !== 'undefined' && crystalname.length > 0) {
+            this.setState({ neededCrystal: crystalname[0].crystal });
+        } else {
+            this.setState({ neededCrystal: ''})
+        }
+        this.props.onChangeAbility(chosenOutcome);
     }
 
     onChangeCheckbox(name, isChecked) {
@@ -61,7 +72,7 @@ class SearchMask extends Component {
 
 class SelectItem extends Component {
     constructor(props) {
-        super(props)
+        super(props);
         this.item = props.item;
     }
     render() {
