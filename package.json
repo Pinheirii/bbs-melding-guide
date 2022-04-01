@@ -2,7 +2,7 @@
   "name": "bbs-melding-guide",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pinheirii.github.io",
+  "homepage": "https://pinheirii.github.io/bbs-melding-guide",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
