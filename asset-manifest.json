@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/bbs-melding-guide/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/bbs-melding-guide/static/js/main.7c090b58.chunk.js",
-    "main.js.map": "/bbs-melding-guide/static/js/main.7c090b58.chunk.js.map",
-    "runtime-main.js": "/bbs-melding-guide/static/js/runtime-main.5443fe0e.js",
-    "runtime-main.js.map": "/bbs-melding-guide/static/js/runtime-main.5443fe0e.js.map",
-    "static/js/2.53f20457.chunk.js": "/bbs-melding-guide/static/js/2.53f20457.chunk.js",
-    "static/js/2.53f20457.chunk.js.map": "/bbs-melding-guide/static/js/2.53f20457.chunk.js.map",
-    "static/js/3.61e037af.chunk.js": "/bbs-melding-guide/static/js/3.61e037af.chunk.js",
-    "static/js/3.61e037af.chunk.js.map": "/bbs-melding-guide/static/js/3.61e037af.chunk.js.map",
+    "main.css": "/bbs-melding-guide/static/css/main.e6c13ad2.css",
+    "main.js": "/bbs-melding-guide/static/js/main.298767b8.js",
+    "static/js/787.875de4b5.chunk.js": "/bbs-melding-guide/static/js/787.875de4b5.chunk.js",
     "index.html": "/bbs-melding-guide/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/bbs-melding-guide/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.53f20457.chunk.js.LICENSE.txt": "/bbs-melding-guide/static/js/2.53f20457.chunk.js.LICENSE.txt"
+    "main.e6c13ad2.css.map": "/bbs-melding-guide/static/css/main.e6c13ad2.css.map",
+    "main.298767b8.js.map": "/bbs-melding-guide/static/js/main.298767b8.js.map",
+    "787.875de4b5.chunk.js.map": "/bbs-melding-guide/static/js/787.875de4b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5443fe0e.js",
-    "static/js/2.53f20457.chunk.js",
-    "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.7c090b58.chunk.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.298767b8.js"
   ]
 }
